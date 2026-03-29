@@ -1,13 +1,5 @@
 # Hybrid-Feature-Based-Intent-Classification-for-Intelligent-Query-Routing-in-LLM-Systems-
 Hybrid Feature-Based Intent Classifier for NPCYF AI CoPilot | LinearSVC + TF-IDF + Sentence Embeddings | 100% Accuracy | IDEAS-TIH, ISI Kolkata
-#  Hybrid Feature-Based Intent Classification for Intelligent Query Routing in LLM Systems
-
-> **Internship Project** | IDEAS-TIH, ISI Kolkata |
-> **Period:** 21 Jan 2026 – 31 Mar 2026  
-> **Guide:** Kunal Gupta, IDEAS-TIH, ISI Kolkata
-
----
-
 ## 📌 Project Overview
 
 An LLM deployed on an agriculture platform (NPCYF AI CoPilot) receives three very different types of questions:
